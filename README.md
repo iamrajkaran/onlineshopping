@@ -9,6 +9,7 @@ Project built on very simple supplier customer relationship to describe the foll
 
 Just clone it in folder and try to run 
 > npm install 
+
 in terminal to install all the packages defined in package.json
 
 MySql dump is under data folder and user: root and pass: root 
